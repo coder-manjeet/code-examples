@@ -24,5 +24,5 @@ Each example is designed for direct copy-paste into your project and includes va
 
 ---
 
-*Want more examples?*  
-Follow coder-manjeet on [Medium](https://codermanjeet.medium.com) or star this repo for updates on new stacks and use cases!
+*Want more examples and help?*  
+Follow me on [Medium](https://codermanjeet.medium.com) or star this repo for updates on new stacks and use cases!
