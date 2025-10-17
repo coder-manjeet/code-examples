@@ -13,11 +13,11 @@ _Current folders:_
 
 ## 📁 Laravel: File Upload Examples ([View Folder](./laravel/put-patch-file-uploads/README.md))
 
-File Uploads with `Put/Patch` examples, the right way:
+### 1. File Uploads with `Put/Patch` examples, the right way:
 
-1. [Vue 3 Example](./laravel/put-patch-file-uploads/README.md#1-vue-3-inertiajs-upload-form)
-2. [React Example](./laravel/put-patch-file-uploads/README.md#2-react-inertiajs-upload-form)
-3. [Livewire Example](./laravel/put-patch-file-uploads/README.md#3-laravel-livewire-upload-form)
+- [Vue 3 Example](./laravel/put-patch-file-uploads/README.md#1-vue-3-inertiajs-upload-form)
+- [React Example](./laravel/put-patch-file-uploads/README.md#2-react-inertiajs-upload-form)
+- [Livewire Example](./laravel/put-patch-file-uploads/README.md#3-laravel-livewire-upload-form)
 
 
 Each example is designed for direct copy-paste into your project and includes validation and image preview features.
@@ -25,4 +25,6 @@ Each example is designed for direct copy-paste into your project and includes va
 ---
 
 *Want more examples and help?*  
-Follow me on [Medium](https://codermanjeet.medium.com) or star this repo for updates on new stacks and use cases!
+Follow me on [Medium](https://codermanjeet.medium.com) or star this repo for updates on new stacks and use cases! 
+
+For help connect with me over [x.com/@codermanjeet](https://x.com/@codermanjeet)
